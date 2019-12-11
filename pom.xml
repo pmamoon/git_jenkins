@@ -153,8 +153,8 @@
                         <configuration>
                              <url>http://localhost:8080/manager/text</url>
                              <path>/guestbook</path>
-                             <username>admin</username>
-                             <password>manager</password>
+                             <username>jenkins</username>
+                             <password>jenkins</password>
                         </configuration>
                   </plugin>	
 
