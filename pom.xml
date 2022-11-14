@@ -8,7 +8,7 @@
 
 	<!-- 변수 -->
 	<properties>
-		<org.springframework-version> 4.2.1.RELEASE </org.springframework-version>
+		<org.springframework-version>4.2.7.RELEASE</org.springframework-version>
 		  <!-- Jenkins에서 사용하는 부분 -->
             <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
             <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
